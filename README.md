@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hi, I'm Tobias 👋🏼 🧑🏼‍💻
+
+<img src="https://raw.githubusercontent.com/toblu96/toblu96/master/Header_Image_Dark.png" alt="header image that says Tobias Blum - software engineer, web enthusiast & electrical engineering student alongside a vector illustration of a developer with his favourites tools">
+
 
 <!--
-**toblu96/toblu96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
